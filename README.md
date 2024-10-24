@@ -1,2 +1,2 @@
 # mydjan1
-This contains a basic internet website buiklt within the django framework
+This contains a basic internet website built within the django framework
